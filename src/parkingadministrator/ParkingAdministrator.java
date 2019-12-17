@@ -5,6 +5,8 @@
  */
 package parkingadministrator;
 
+import parkingadministrator.views.Menu;
+
 /**
  *
  * @author Diego Aguilef
@@ -16,6 +18,7 @@ public class ParkingAdministrator {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        new Menu().setVisible(true);
     }
     
 }

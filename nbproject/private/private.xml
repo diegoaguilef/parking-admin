@@ -3,7 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/diego/repositories/parking-admin/src/parkingadministrator/views/CarCRUD.java</file>
+            <file>file:/C:/Users/diego/repositories/parking-admin/src/parkingadministrator/views/ParkingForm.java</file>
+            <file>file:/C:/Users/diego/repositories/parking-admin/src/parkingadministrator/views/GeneralReport.java</file>
+            <file>file:/C:/Users/diego/repositories/parking-admin/src/parkingadministrator/models/Car.java</file>
+            <file>file:/C:/Users/diego/repositories/parking-admin/src/parkingadministrator/views/Menu.java</file>
+            <file>file:/C:/Users/diego/repositories/parking-admin/src/parkingadministrator/views/FilteredReport.java</file>
+            <file>file:/C:/Users/diego/repositories/parking-admin/src/parkingadministrator/connection/DBConnection.java</file>
+            <file>file:/C:/Users/diego/repositories/parking-admin/src/parkingadministrator/ParkingAdministrator.java</file>
+            <file>file:/C:/Users/diego/repositories/parking-admin/src/parkingadministrator/controllers/CarsDAO.java</file>
         </group>
     </open-files>
 </project-private>
